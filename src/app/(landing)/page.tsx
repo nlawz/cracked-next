@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "A Next.js learning resource to help you understand the structure of modern day web apps and the tradeoffs you make by using saas glue.",
 };
 
-const githubUrl = "https://github.com/nlawz/crack-learn";
+const githubUrl = "https://github.com/nlawz/cracked-next";
 
 const HomePage = () => {
   return (
